@@ -15,9 +15,9 @@ python3 usernames.py
 ```
 
 ## Requirements
-> Python 3
-> Requests
-> PySimpleGUI
+- Python 3
+- Requests
+- PySimpleGUI
 
 ## Contribute
 
