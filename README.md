@@ -7,14 +7,17 @@ It has a basic GUI, it works and i don't intend to update this script any furthe
 
 ## Install
 
-You need Python 3.
-
 ```
 # Download the repo
 https://github.com/AmirAliuA/snapchat-username.git
 # Run the python script
 python3 usernames.py
 ```
+
+## Requirements
+> Python 3
+> Requests
+> PySimpleGUI
 
 ## Contribute
 
