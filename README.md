@@ -1,28 +1,24 @@
-# snapchat-username
+# Snapchat Username Checker
+A Python script to check the availability of Snapchat usernames.
 
-> A python script to check if snapchat usernames are available or not.
+This is a simple Python script with a basic GUI built using the `Requests` and `PySimpleGUI` libraries. 
+I originally hosted this repository on a different GitHub profile but decided to move it here. 
 
-I have moved this repository from my other github profile. A simple and easy Python script to read/use, that uses the Requests & PySimpleGUI libraries.
-It has a basic GUI, it works and i don't intend to update this script any further. If the script "doesn't work", just change the web header.
+The script is straightforward to use, and it works as intended. However, I don't plan to update it further. If it stops working, you might need to update the web headers in the script.
 
-## Install
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/AmirAliuA/snapchat-username.git
 
+# Navigate to the directory
+cd snapchat-username
+
+# Install the required libraries
+pip install -r requirements.txt
 ```
-# Download the repo
-https://github.com/AmirAliuA/snapchat-username.git
-# Run the python script
+
+### Run the script
+```bash
 python3 usernames.py
 ```
-
-## Requirements
-- Python 3
-- Requests
-- PySimpleGUI
-
-## Contribute
-
-If you think this could be better, contribute to this repo or fork your own, just credit me.
-
-## License
-
-[GNU General Public License v3.0](LICENSE)
